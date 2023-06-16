@@ -15,6 +15,6 @@
 # pragma once
 #endif // defined(_MSC_VER) && (_MSC_VER >= 1200)
 
-#include <boost/asio/detail/config.hpp>
-#include <boost/asio/detail/socket_types.hpp>
+#include <asio/detail/config.hpp>
+#include <asio/detail/socket_types.hpp>
 #endif // BOOST_ASIO_SSL_DETAIL_OPENSSL_TYPES_HPP

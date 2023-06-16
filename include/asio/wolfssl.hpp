@@ -9,7 +9,7 @@
 #include <wolfssl/ssl.h>
 #include <wolfssl/openssl/ssl.h>
 #include <wolfssl/openssl/x509v3.h>
-#include <boost/asio/wolfssl/detail/openssl_types.hpp>
-#include <boost/asio/ssl.hpp>
+#include <asio/wolfssl/detail/openssl_types.hpp>
+#include <asio/ssl.hpp>
 
 #endif // BOOST_ASIO_WOLFSSL_HPP

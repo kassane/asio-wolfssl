@@ -7,10 +7,10 @@ Add `include` as include directory for your project and link against WolfSSL ins
 
 Use the header:
 ```cpp
-#include <boost/asio/wolfssl.hpp>
+#include <asio/wolfssl.hpp>
 ```
 
 Instead of:
 ```cpp
-#include <boost/asio/ssl.hpp>
+#include <asio/ssl.hpp>
 ```
