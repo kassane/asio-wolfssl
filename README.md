@@ -1,4 +1,4 @@
-# boost-asio-wolfssl
+# asio-wolfssl
 A WolfSSL wrapper for boost asio
 
 ## Usage
