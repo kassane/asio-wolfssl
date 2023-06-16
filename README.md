@@ -1,5 +1,5 @@
 # asio-wolfssl
-A WolfSSL wrapper for boost asio
+A WolfSSL wrapper for Asio standalone
 
 ## Usage
 
